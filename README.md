@@ -1,6 +1,6 @@
  # javascript Color Flipper
 
-  https://batuhan37.github.io/Responsive-Coffee-Website/
+  https://batuhan37.github.io/Javascript-Color-Flipper/
 
 <p align="center">
   <a href="https://batuhan37.github.io/Responsive-Coffee-Website/">
