@@ -1,9 +1,7 @@
  # javascript Color Flipper
 
-  https://batuhan37.github.io/Javascript-Color-Flipper/
-
 <p>
-  <a href="https://batuhan37.github.io/Responsive-Coffee-Website/">
+  <a href="https://batuhan37.github.io/Javascript-Color-Flipper/">
   <img src="./img.PNG" width="800px" title="hover text">
   </a>
 </p>
